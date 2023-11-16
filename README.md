@@ -1,8 +1,7 @@
 ### Hi there 👋
-### POPO
-love kiss
-- 🔭 I’m currently working on WordPress
-
+I’m currently working on WordPress
+I'm currently Python.
+Python is excellent programming language.
 <!--
 **ericschulz-09-23/ericschulz-09-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
