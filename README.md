@@ -1,6 +1,6 @@
-############## Piz visit my github. https://github.com/ericschulz-09-23
+####### Piz visit my github. https://github.com/ericschulz-09-23
 
-############3########## Hello! 👋 Who am I?
+####### Hello! 👋 Who am I?
 
 - 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web and mobile applications
 - 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP
