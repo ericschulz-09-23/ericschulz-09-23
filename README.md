@@ -7,4 +7,17 @@
 > - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP
 > - 😍 Developed some AI Apps and integrated with web and ChatGPT. - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.
 
-require "Welcome to 'Eric Schulz/github'"
+## My personal values and work ethic
+
+✨ I want to build strong relationships with my clients.
+
+✨ I believe that a good working relationship is built on mutual trust and respect.
+
+✨ I value open communication and strive to keep you updated on progress every step of the way.
+
+✨ I am a team player and enjoy collaborating with others to achieve a common goal.
+
+✨ Outside of work, I am an avid sports fan, especially when it comes to football.
+
+✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
