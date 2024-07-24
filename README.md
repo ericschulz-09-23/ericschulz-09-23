@@ -1,3 +1,4 @@
+Piz visti my github. https://github.com/ericschulz-09-23
 Hello! 👋 Who am I?
 
 - 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web and mobile applications
