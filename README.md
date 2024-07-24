@@ -1,4 +1,4 @@
-Piz visti my github. https://github.com/ericschulz-09-23
+Piz visit my github. https://github.com/ericschulz-09-23
 
 Hello! 👋 Who am I?
 
