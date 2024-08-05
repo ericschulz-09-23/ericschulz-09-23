@@ -1,5 +1,5 @@
-## Piz visit my github. https://github.com/ericschulz-09-23
-## Piz contact me aricschulz3@gmail.com
+## PLZ visit my github. https://github.com/ericschulz-09-23
+## PLZ contact me aricschulz3@gmail.com
 
 #  Hello! 👋 Who am I?
 
