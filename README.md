@@ -28,7 +28,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=zinping&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@zinping's trophy stats"/>
 </p>
 
-### Languages and Tools
+## Languages and Tools
  <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥
 <br><br>
 <table align="center">
@@ -103,8 +103,8 @@
   </tr>
 </table>
 </h2>
-### 📊 GitHub Stats:
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">GitHub Statistics
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">GitHub Status
 
 <p align="center">
   <a href="https://github.com/zinping/github-readme-stats">
